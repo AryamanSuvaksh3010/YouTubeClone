@@ -1,38 +1,38 @@
 import React from 'react'
 import { NavLink  } from 'react-router-dom';
 
-import homeIcon from '../assets/bell.svg';
-import shortsIcon from '../assets/bell.svg';
-import subscriptionsIcon from '../assets/bell.svg';
-import redLiveIcon from '../assets/bell.svg';
+import homeIcon from '../assets/edit.svg';
+import shortsIcon from '../assets/edit.svg';
+import subscriptionsIcon from '../assets/edit.svg';
+import redLiveIcon from '../assets/edit.svg';
 
-import libraryIcon from '../assets/bell.svg';
-import historyIcon from '../assets/bell.svg';
-import yourVideosIcon from '../assets/bell.svg';
-import watchLaterIcon from '../assets/bell.svg';
-import likedVideosIcon from '../assets/bell.svg';
-import showMoreIcon from '../assets/bell.svg';
+import libraryIcon from '../assets/edit.svg';
+import historyIcon from '../assets/edit.svg';
+import yourVideosIcon from '../assets/edit.svg';
+import watchLaterIcon from '../assets/edit.svg';
+import likedVideosIcon from '../assets/edit.svg';
+import showMoreIcon from '../assets/edit.svg';
 
-import trendingIcon from '../assets/bell.svg';
-import shoppingIcon from '../assets/bell.svg';
-import musicIcon from '../assets/bell.svg';
-import moviesIcon from '../assets/bell.svg';
-import liveIcon from '../assets/bell.svg';
-import gamingIcon from '../assets/bell.svg';
-import newsIcon from '../assets/bell.svg';
-import sportsIcon from '../assets/bell.svg';
-import learningIcon from '../assets/bell.svg';
-import fashionAndBeautyIcon from '../assets/bell.svg';
+import trendingIcon from '../assets/edit.svg';
+import shoppingIcon from '../assets/edit.svg';
+import musicIcon from '../assets/edit.svg';
+import moviesIcon from '../assets/edit.svg';
+import liveIcon from '../assets/edit.svg';
+import gamingIcon from '../assets/edit.svg';
+import newsIcon from '../assets/edit.svg';
+import sportsIcon from '../assets/edit.svg';
+import learningIcon from '../assets/edit.svg';
+import fashionAndBeautyIcon from '../assets/edit.svg';
 
-import ytPremiumIcon from '../assets/bell.svg';
-import ytStudioIcon from '../assets/bell.svg';
-import ytMusicIcon from '../assets/bell.svg';
-import ytKidsIcon from '../assets/bell.svg';
+import ytPremiumIcon from '../assets/edit.svg';
+import ytStudioIcon from '../assets/edit.svg';
+import ytMusicIcon from '../assets/edit.svg';
+import ytKidsIcon from '../assets/edit.svg';
 
-import settingsIcon from '../assets/bell.svg';
-import reportHistoryIcon from '../assets/bell.svg';
-import helpIcon from '../assets/bell.svg';
-import sendFeedbackIcon from '../assets/bell.svg';
+import settingsIcon from '../assets/edit.svg';
+import reportHistoryIcon from '../assets/edit.svg';
+import helpIcon from '../assets/edit.svg';
+import sendFeedbackIcon from '../assets/edit.svg';
 import { useSelector } from 'react-redux';
 import './buttonListStyle.css'
 
